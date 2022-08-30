@@ -4,13 +4,13 @@ Steps to run the chatbot
 
 1. git clone repository 
 
-2. Create a virtual envirmment
+2. Create a conda envirmment
 
    conda create -n <env name> python=3.7.13
   
 3. Activate virtual environment
 
-   conda activate MLhealthBOT
+   conda activate <env name>
   
 4. Install all the libraries using requirements.txt
   
