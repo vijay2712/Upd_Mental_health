@@ -20,9 +20,9 @@ Steps to run the chatbot
 
 or 
   
-1  open the flask app
+6  open the flask app
 
-2. flask run
+   flask run
    
 
 
